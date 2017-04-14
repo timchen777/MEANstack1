@@ -23,7 +23,12 @@ console.log(cat());
 ----------------------------
 > MEANstack\node_modules\cat-me> node app.js
 >> see Cat picture
-
+========= create and run hellowWord.js ====
+$ node helloWorld.js
+on terminal see -->
+Hello MEAN stack
+........
+Hello MEAN stack
 
 
 

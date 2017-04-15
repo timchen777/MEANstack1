@@ -29,7 +29,12 @@ on terminal see -->
 Hello MEAN stack
 ........
 Hello MEAN stack
-
+============ 1105 video 1: 1:18 Create server ===========
+created server.js
+PS C:\NTU\GitHub\MEANstack> node server.js
+Server is runnning..
+browser: http://localhost:3000
+==>I created a Server
 
 
 
